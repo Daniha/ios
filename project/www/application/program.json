@@ -1,0 +1,299 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "38510e2d3ce108290997923edf7e1655fce857a6.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/38510e2d3ce108290997923edf7e1655fce857a6.js?meteor_js_resource=true",
+      "size": 584229,
+      "hash": "38510e2d3ce108290997923edf7e1655fce857a6"
+    },
+    {
+      "path": "7f592751dcec33e7230d8e0fbdd396083fd3bede.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/7f592751dcec33e7230d8e0fbdd396083fd3bede.css?meteor_css_resource=true",
+      "size": 130273,
+      "hash": "7f592751dcec33e7230d8e0fbdd396083fd3bede"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "size": 20127,
+      "hash": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "size": 108738,
+      "hash": "de51a8494180a6db074af2dee2383f0a363c5b08"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "size": 45404,
+      "hash": "44bc1850f570972267b169ae18f1cb06b611ffa2"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "size": 23424,
+      "hash": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "size": 18028,
+      "hash": "ca35b697d99cae4d1b60f2d60fcd37771987eb07"
+    },
+    {
+      "path": "app/bass.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bass.jpg",
+      "size": 140086,
+      "hash": "380d79e4a4beffdd303e7e453e80b0cbe85f21c8"
+    },
+    {
+      "path": "app/beard.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/beard.jpg",
+      "size": 103391,
+      "hash": "82d8746dc3c41da0dc7a167d582fca73dce1fa09"
+    },
+    {
+      "path": "app/img_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_1.jpg",
+      "size": 236546,
+      "hash": "1f2792555d31ab22612d2f47571fe7551b4b35c8"
+    },
+    {
+      "path": "app/img_10.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_10.jpg",
+      "size": 224854,
+      "hash": "6da29af833fa78aac836db2c0dbbd0b315a96cad"
+    },
+    {
+      "path": "app/img_11.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_11.jpg",
+      "size": 320939,
+      "hash": "b24327e23bf9a4396816cb7fec8eb826acab3708"
+    },
+    {
+      "path": "app/img_12.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_12.jpg",
+      "size": 217363,
+      "hash": "41ef4494dabd32ec02282212b63dae843b8bd3b4"
+    },
+    {
+      "path": "app/img_13.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_13.jpg",
+      "size": 216835,
+      "hash": "15effef4026b2b71bc25a0df07484050cbb77ecd"
+    },
+    {
+      "path": "app/img_14.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_14.jpg",
+      "size": 141072,
+      "hash": "3e8f71eba1b8b783e7034452bbc72d6afdce6c33"
+    },
+    {
+      "path": "app/img_15.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_15.jpg",
+      "size": 285709,
+      "hash": "7adc53c93faf6179464ef9e445f2d0d90063d24d"
+    },
+    {
+      "path": "app/img_16.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_16.jpg",
+      "size": 146361,
+      "hash": "74f3492a3336b44d4b73d03377e8c1e2b688b55d"
+    },
+    {
+      "path": "app/img_17.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_17.jpg",
+      "size": 268534,
+      "hash": "9a387d1925b74c1ebe2a56a888220925952ca48a"
+    },
+    {
+      "path": "app/img_18.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_18.jpg",
+      "size": 428901,
+      "hash": "1333a058bf1c4681114855d5d00c7d4d9f33d0e0"
+    },
+    {
+      "path": "app/img_19.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_19.jpg",
+      "size": 371409,
+      "hash": "9d1d19ffac1f3da7018d9b5055543c8600904bdb"
+    },
+    {
+      "path": "app/img_2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_2.jpg",
+      "size": 352503,
+      "hash": "6898cc73477a2964d87febdc74bcebb0819c3e54"
+    },
+    {
+      "path": "app/img_20.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_20.jpg",
+      "size": 234528,
+      "hash": "400676fbfe0cbe63e9c9185ebd42b8c74636866f"
+    },
+    {
+      "path": "app/img_21.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_21.jpg",
+      "size": 915023,
+      "hash": "cc36b7fb1e6747bf9424cf3fb8f52656a50c9856"
+    },
+    {
+      "path": "app/img_22.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_22.jpg",
+      "size": 253847,
+      "hash": "9bd12606b2a8947acdca9df7b7a4a5066652d97e"
+    },
+    {
+      "path": "app/img_3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_3.jpg",
+      "size": 294127,
+      "hash": "85394a28d57411da26ea46ba81adf4f3e1ffc278"
+    },
+    {
+      "path": "app/img_4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_4.jpg",
+      "size": 283389,
+      "hash": "ca9b9961717dc318df3d6848c53ba8c5d5d6b073"
+    },
+    {
+      "path": "app/img_5.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_5.jpg",
+      "size": 239559,
+      "hash": "38bcb508adfa9bb283b899f67e4ce762b5c2fa83"
+    },
+    {
+      "path": "app/img_6.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_6.jpg",
+      "size": 159482,
+      "hash": "03a7f73c4164ab0b2b1d52fec2a6a2b205dccc90"
+    },
+    {
+      "path": "app/img_7.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_7.jpg",
+      "size": 278103,
+      "hash": "7ebfda89fb671207e1d1b168994c237b852dcfec"
+    },
+    {
+      "path": "app/img_8.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_8.jpg",
+      "size": 325461,
+      "hash": "97dc60e6d6a0b44a9125264eb1dc23d8abdd1b90"
+    },
+    {
+      "path": "app/img_9.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img_9.jpg",
+      "size": 277138,
+      "hash": "c39421a6a1c607bceabd6a2a29d17ce20f7fb036"
+    },
+    {
+      "path": "app/myLoveOnes.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/myLoveOnes.jpg",
+      "size": 606648,
+      "hash": "7f0ad56a3609d700917d0541cc4a699cb5d0677b"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "ba1d125a6fad86fd417b86de9967ebe0b05e0eab"
+    }
+  ]
+}

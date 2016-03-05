@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+      
+      <testcase classname="fastlane.lanes" name="0: Verifying required fastlane version" time="0.000531">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: default_platform" time="0.000266">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: ensure_git_status_clean" time="0.005773">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: xctest" time="0.609888">
+        
+          <failure message="/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/lib/fastlane/actions/actions_helper.rb:33:in `execute_action'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/lib/fastlane/runner.rb:129:in `block in execute_action'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/lib/fastlane/runner.rb:128:in `chdir'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/lib/fastlane/runner.rb:128:in `execute_action'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/lib/fastlane/fast_file.rb:149:in `method_missing'&#10;Fastfile:26:in `block (2 levels) in parsing_binding'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/lib/fastlane/lane.rb:36:in `call'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/lib/fastlane/runner.rb:52:in `block in execute'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/lib/fastlane/runner.rb:46:in `chdir'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/lib/fastlane/runner.rb:46:in `execute'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/lib/fastlane/lane_manager.rb:46:in `cruise_lane'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/lib/fastlane/command_line_handler.rb:30:in `handle'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/bin/fastlane:38:in `block (2 levels) in run'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@Wikipedia/gems/commander-4.3.5/lib/commander/command.rb:178:in `call'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@Wikipedia/gems/commander-4.3.5/lib/commander/command.rb:153:in `run'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@Wikipedia/gems/commander-4.3.5/lib/commander/runner.rb:428:in `run_active_command'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@Wikipedia/gems/fastlane_core-0.37.0/lib/fastlane_core/ui/fastlane_runner.rb:23:in `run!'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@Wikipedia/gems/commander-4.3.5/lib/commander/delegates.rb:15:in `run!'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/bin/fastlane:156:in `run'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/fastlane-1.66.0/bin/fastlane:162:in `&lt;top (required)&gt;'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@Wikipedia/bin/fastlane:22:in `load'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@Wikipedia/bin/fastlane:22:in `&lt;main&gt;'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@Wikipedia/bin/ruby_executable_hooks:15:in `eval'&#10;/Users/daniha/.rvm/gems/ruby-2.3.0@Wikipedia/bin/ruby_executable_hooks:15:in `&lt;main&gt;'&#10;&#10;Exit status of command 'set -o pipefail &amp;&amp; xcodebuild -scheme &quot;image_share2&quot; -destination &quot;platform=iOS Simulator,name=iPhone 6,OS=8.3&quot; build test | tee '/Users/daniha/Library/Logs/fastlane/xcbuild/2016-03-05/5828/xcodebuild.log' | xcpretty --color --report html --output &quot;build/reports/unit-tests.html&quot; --report junit --output &quot;build/reports/unit-tests.xml&quot; --test' was 1 instead of 0.&#10;xcodebuild: error: The directory /Users/daniha/dev/output/ios does not contain an Xcode project or workspace.&#10;&#10;/Users/daniha/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/fileutils.rb:253:in `mkdir': Permission denied @ dir_s_mkdir - build (Errno::EACCES)&#10;	from /Users/daniha/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/fileutils.rb:253:in `fu_mkdir'&#10;	from /Users/daniha/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/fileutils.rb:227:in `block (2 levels) in mkdir_p'&#10;	from /Users/daniha/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/fileutils.rb:225:in `reverse_each'&#10;	from /Users/daniha/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/fileutils.rb:225:in `block in mkdir_p'&#10;	from /Users/daniha/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/fileutils.rb:211:in `each'&#10;	from /Users/daniha/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/fileutils.rb:211:in `mkdir_p'&#10;	from /Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/xcpretty-0.2.2/lib/xcpretty/reporters/html.rb:43:in `finish'&#10;	from /Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/xcpretty-0.2.2/bin/xcpretty:84:in `each'&#10;	from /Users/daniha/.rvm/gems/ruby-2.3.0@global/gems/xcpretty-0.2.2/bin/xcpretty:84:in `&lt;top (required)&gt;'&#10;	from /Users/daniha/.rvm/rubies/ruby-2.3.0/bin/xcpretty:22:in `load'&#10;	from /Users/daniha/.rvm/rubies/ruby-2.3.0/bin/xcpretty:22:in `&lt;main&gt;'&#10;	from /Users/daniha/.rvm/gems/ruby-2.3.0@Wikipedia/bin/ruby_executable_hooks:15:in `eval'&#10;	from /Users/daniha/.rvm/gems/ruby-2.3.0@Wikipedia/bin/ruby_executable_hooks:15:in `&lt;main&gt;'&#10;" />
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
